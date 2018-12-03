@@ -4,4 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Touch_My_Note/Scene/Game.unity
+    guid: 95e08d5d937906245ae1224effb55258
+  - enabled: 1
+    path: Assets/Touch_My_Note/Scene/GameOver.unity
+    guid: b08ad2d17029a514c9a2e978702d9dd6
+  m_configObjects: {}
